@@ -15,7 +15,7 @@
 
 ---
 
-# 🌐 Personal Portfolio Website – Sampathi Rao Aniketh
+# 🌐 Personal Portfolio Website 
 
 Welcome to my **personal portfolio website** built using **HTML, CSS, and Font Awesome**. This responsive and clean design showcases my skills, projects, and contact information. Whether you're a recruiter, collaborator, or just exploring, feel free to browse through my work and connect with me.
 
